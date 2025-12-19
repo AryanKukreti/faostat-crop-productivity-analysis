@@ -108,8 +108,7 @@ This validates that observed improvements reflect structural change rather than 
 ├── EDA.ipynb                     # Exploratory data analysis
 ├── data_aggregation.ipynb        # Metrics construction & aggregation
 ├── Business_Questions.ipynb      # Analytical questions & insights
-├── Global_Agri_Consulting_Report_Bullets.docx
-└── extracted.txt                 # Cleaned narrative summary
+└──  Global_Agri_Consulting_Report_Bullets.docx
 ```
 
 ## Strategic Recommendations
